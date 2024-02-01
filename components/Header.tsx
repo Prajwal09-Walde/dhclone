@@ -13,8 +13,8 @@ export default function Header() {
         <Image
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/640px-Disney%2B_logo.svg.png"
           alt='Disney logo'
-          width={200}
-          height={150}
+          width={120}
+          height={100}
           className='cursor-pointer invert'
         />
       </Link>
